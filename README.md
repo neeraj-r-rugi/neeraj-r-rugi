@@ -97,8 +97,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
   <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=black
-  " />
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=black" />
 </p>
 
 ### **Tools & Environment**
