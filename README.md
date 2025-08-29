@@ -117,7 +117,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 - 💻 **Cross-Platform Development**: Creating applications that work seamlessly across platforms
 - 🎨 **UI/UX Design**: Crafting intuitive interfaces with GTK and PyQt
 - 🌐 **Web Learning**: Exploring the web to understand new technologies and build cutting-edge, cyber-linked systems.
-- 🚀 **Open Source**: Building open-source projects that empower.
+- 🚀 **Open Source Contributor**
 - 🤖 **AI & ML**: Understanding the peaks, pitfalls, and nuances of Artificial Intelligence and large language models to leverage its potential as a tool while building scalable, safe, industry-grade software by referencing industry best practices and design guidelines.
 
 ---
