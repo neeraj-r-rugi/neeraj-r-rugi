@@ -116,7 +116,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 - 💻 **Cross-Platform Development**: Creating applications that work seamlessly across platforms
 - 🎨 **UI/UX Design**: Crafting intuitive interfaces with GTK and PyQt
 - 🌐 **Web Learning**: Exploring the web to understand new technologies and build cutting-edge, cyber-linked systems.
-- 🚀 **Open Source**: Building open-source projects that empower.
+- 🚀 **Open Source Contributior**
 - 🤖 **AI & ML**: Understanding the peaks, pitfalls, and nuances of Artificial Intelligence and large language models to leverage its potential as a tool while building scalable, safe, industry-grade software by referencing industry best practices and design guidelines.
 
 ---
@@ -124,14 +124,19 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=neeraj-r-rugi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<table>
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=neeraj-r-rugi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-r-rugi&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-r-rugi&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -190,4 +195,3 @@ Formula 1 is the pinnacle of motorsport—something I deeply resonate with. It u
 ---
 
 <h3 align="center">❤️ Thank you for stopping by! Let's build something amazing together—one commit at a time! ❤️</h3>
-
