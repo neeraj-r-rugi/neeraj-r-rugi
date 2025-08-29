@@ -37,8 +37,8 @@ _Torvalds' Pragmatism_
 <td align="center" width="300">
 
 ✨ **Current Focus**  
-_Systems Programming_  
-_IoT & Web Technologies_
+_Learning Systems Programming_  
+_Exploring IoT & Web Technologies_
 
 </td>
 </tr>
@@ -54,11 +54,11 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 </tr>
 </table>
 
-🏎️ **Fun Fact**: Formula 1–obsessed _(and no, not because of DTS or the movie!)_
+🏎️ **Fun Fact**: Formula 1–obsessed _(and no, not because of DTS or the Movie!)_
 
 </div>
 
-🎯 **Mission**: Creating systems, frameworks, and devices that solve real-world problems. I believe in building technology that's accessible, meaningful, and beneficial to communities and industries.
+🎯 **Mission**: Working toward creating systems, frameworks, and devices that solve real-world problems. I believe technology should be accessible, meaningful, and beneficial to communities and industries.
 
 ---
 
@@ -112,13 +112,13 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 
 ## 🎯 What I'm Currently Working On
 
-- 🔧 **Systems Programming**: Deep-diving into low-level and bare-metal programming
+- 🔧 **Systems Programming**: Exploring low-level and bare-metal programming to understand how systems really work.
 - 🔗 **IoT Projects**: Building smart, connected devices for real-world applications
 - 💻 **Cross-Platform Development**: Creating applications that work seamlessly across platforms
 - 🎨 **UI/UX Design**: Crafting intuitive interfaces with GTK and PyQt
 - 🌐 **Web Learning**: Exploring the web to understand new technologies and build cutting-edge, cyber-linked systems.
 - 🚀 **Open Source Contributor**
-- 🤖 **AI & ML**: Understanding the peaks, pitfalls, and nuances of Artificial Intelligence and large language models to leverage its potential as a tool while building scalable, safe, industry-grade software by referencing industry best practices and design guidelines.
+- 🤖 **AI & ML**: Learning the peaks, pitfalls, and nuances of Artificial Intelligence and large language models — with the goal of eventually building scalable, safe software guided by industry best practices.
 
 ---
 
