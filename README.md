@@ -126,7 +126,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 
 <div align="center">
 
-<table>
+<table style="border: none;"">
   <tr>
     <td>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=neeraj-r-rugi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
