@@ -126,7 +126,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 
 <div align="center">
 
-<table style="border: none;"">
+<table style="border: none;">
   <tr>
     <td>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=neeraj-r-rugi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -186,8 +186,9 @@ Formula 1 is the pinnacle of motorsport—something I deeply resonate with. It u
 
 **⭐ Star some repos if you find them interesting!**
 
-<a href="https://github.com/neeraj-r-rugi?tab=repositories"><img src="https://img.shields.io/badge/MY_REPOS-%23000000?style=for-the-badge&logo=GitHub
-"></a>
+<a href="https://github.com/neeraj-r-rugi?tab=repositories">
+  <img src="https://img.shields.io/badge/MY_REPOS-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Repos" />
+</a>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 
