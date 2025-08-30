@@ -117,7 +117,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 - 💻 **Cross-Platform Development**: Creating applications that work seamlessly across platforms
 - 🎨 **UI/UX Design**: Crafting intuitive interfaces with GTK and PyQt
 - 🌐 **Web Learning**: Exploring the web to understand new technologies and build cutting-edge, cyber-linked systems.
-- 🚀 **Open Source Contributor**
+- 🚀 **Open Source Explorer**
 - 🤖 **AI & ML**: Learning the peaks, pitfalls, and nuances of Artificial Intelligence and large language models — with the goal of eventually building scalable, safe software guided by industry best practices.
 
 ---
@@ -126,7 +126,7 @@ _"Technology should empower, not restrict or gatekeep. I thrive on precision, pe
 
 <div align="center">
 
-<table style="border: none;">
+<table border="0">
   <tr>
     <td>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=neeraj-r-rugi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
